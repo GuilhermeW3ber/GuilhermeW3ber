@@ -1,4 +1,4 @@
-### Hi, I'm Guilherme Weber, an Software Engineer under formation, full time Programmer and Dreamer.
+### Hi, I'm Guilherme Weber, a Software Engineer under formation, full time Programmer and Dreamer.
 ### Welcome to the first part of a dream becoming reality 👌
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeW3ber&show_icons=true&theme=radical)
