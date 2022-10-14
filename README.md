@@ -20,7 +20,7 @@
     <img align="center" alt="html5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
     <img align="center" alt="html5" height="130" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg"/>
     <img align="center" alt="html5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
-    <img align="center" alt="html5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+    <img align="center" alt="html5" height="130" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 
 </div><br/>
 
