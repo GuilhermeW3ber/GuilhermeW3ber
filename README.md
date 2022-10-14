@@ -1,7 +1,7 @@
 ### Hi, I'm Guilherme Weber, a Software Engineer under formation, Junior QA and Dreamer.
 ### Welcome to the first part of a dream becoming reality 👌
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeW3ber&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeW3be&show_icons=true&theme=radical)
 
 ### Wanna know more about ME? Feel free to contact me or just open the links below:
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://guilhermew3ber.github.io/Main/)
