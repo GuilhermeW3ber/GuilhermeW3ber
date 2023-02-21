@@ -1,6 +1,6 @@
 ### Hi, I'm Guilherme Weber, a Software Engineer , Junior QA and Web Developer.
 
-###In charge of product quality assurance on a develop team, from its presentation to the client, with its functions and applicability looking forward to solving all costumers necessities, till project delivery. Enhancing, developing scenarios to fit the product into the acceptance criteria, framework selection, performance tests, regressive tests, usability tests, unit testing and implanting new automation processes for better efficiency.
+### In charge of product quality assurance on a develop team, from its presentation to the client, with its functions and applicability looking forward to solving all costumers necessities, till project delivery. Enhancing, developing scenarios to fit the product into the acceptance criteria, framework selection, performance tests, regressive tests, usability tests, unit testing and implanting new automation processes for better efficiency.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeW3ber&show_icons=true&theme=radical)
 
