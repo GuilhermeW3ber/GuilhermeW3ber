@@ -1,5 +1,4 @@
-### Hi, I'm Guilherme Weber
-### Software Engineer , Junior QA and Web Developer.
+### Software Engineer, QA Junior and Web Developer.
 
 ### In charge of product quality assurance on a develop team, from its presentation to the client, with its functions and applicability looking forward to solving all costumers necessities, till project delivery. Enhancing, developing scenarios to fit the product into the acceptance criteria, framework selection, performance tests, regressive tests, usability tests, unit testing and implanting new automation processes for better efficiency.
 
